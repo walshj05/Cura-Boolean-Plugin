@@ -1,0 +1,3 @@
+# Qt Notes
+
+## **UNDER CONSTRUCTION**
